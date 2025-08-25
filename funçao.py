@@ -48,4 +48,4 @@ def contar_ocorrencias(string, caractere):
 texto = "programção em python"
 caractere_procurado = "a"
 resultado = contar_ocorrencias(texto, caractere_procurado)
-print(f"o caractere '{caractere_procurado}' parece {resultado} vezes na string")
+print(f"o caractere '{caractere_procurado}' parece {resultado} vezes na string")    
